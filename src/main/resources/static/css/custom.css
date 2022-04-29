@@ -1,0 +1,24 @@
+
+
+.flex{
+	display: flex;
+}
+.containall{
+	margin-left: 700px;
+	padding:0; 
+}
+.name{
+	margin-left: 325px
+}
+h3{
+	margin-left: 50px;
+}
+.allcontain{
+	margin-left:600px
+}
+.link{
+	margin-left:540px
+}
+.name2{
+	margin-left: 100px;
+}
